@@ -1,0 +1,2 @@
+# antidump
+FiveM AntiDump
